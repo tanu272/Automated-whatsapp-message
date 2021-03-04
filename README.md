@@ -1,7 +1,7 @@
 # Automated-whatsapp-message
 
 # General Info
-Send personalized whatsapp messages in a bulk by updating fro excel sheet.
+Send personalized whatsapp messages in a bulk by updating from excel sheet.
 
 ## How it works
 ---
